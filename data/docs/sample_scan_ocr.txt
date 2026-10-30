@@ -1,0 +1,24 @@
+#OCR source=shramik_scan_page1.png engine_conf=0.71 (SIMULATED OCR OUTPUT OF A SCANNED PAGE)
+[Page 1]
+GOVERNMENT OF EXAMPLESTAN
+Department of Labour and Employment
+
+SHRAMIK AWAS SAHAYATA YOJANA
+
+Benefit
+Registered construction workers will get a one-time grant of Rs. 1,20,OOO for building a house.
+
+Eligibility
+1. Worker must be registered with the State Construction Workers Board
+2. Worker must have completed at least 1 year of registration
+3. Worker must not own a pucca house
+
+Documents Required
+1. Aadhaar card
+2. Board registration card
+3. Land ownership proof
+
+How to Apply
+Submit the form at the District Labour Office.
+
+Last date: 3l Marc# 2O27 [partly illegible]

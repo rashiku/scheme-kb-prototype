@@ -1,0 +1,11 @@
+{
+  "scheme_ref": "AGR/2026/114",
+  "source_name": "MyScheme listing (SYNTHETIC)",
+  "captured_at": "2026-10-28",
+  "fields": {
+    "scheme_name":       {"value": "Mukhyamantri Kisan Sahay Yojana", "text": "Mukhyamantri Kisan Sahay Yojana", "section": "Scheme header"},
+    "benefit_amount":    {"value": 5000, "text": "Benefits: Rs. 5,000 per year", "section": "Benefits tab"},
+    "benefit_frequency": {"value": "per year", "text": "Benefits: Rs. 5,000 per year", "section": "Benefits tab"},
+    "deadline":          {"value": "2027-01-31", "text": "Last date to apply: 31 January 2027", "section": "Application Process tab"}
+  }
+}

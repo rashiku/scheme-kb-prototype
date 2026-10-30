@@ -1,0 +1,61 @@
+{
+  "scheme_name": {
+    "value": "बालिका शिक्षा प्रोत्साहन योजना",
+    "quote": "बालिका शिक्षा प्रोत्साहन योजना",
+    "reason": "The scheme name is explicitly mentioned on page 1."
+  },
+  "department": {
+    "value": "महिला एवं बाल विकास विभाग",
+    "quote": "महिला एवं बाल विकास विभाग",
+    "reason": "The department is explicitly mentioned on page 1."
+  },
+  "benefit_type": {
+    "value": "cash assistance",
+    "quote": "आर्थिक सहायता",
+    "reason": "The document mentions financial assistance (आर्थिक सहायता)."
+  },
+  "benefit_amount": {
+    "value": 10000,
+    "quote": "रु. 10,000",
+    "reason": "The document specifies a one-time payment of 10,000 rupees."
+  },
+  "benefit_frequency": {
+    "value": "one-time",
+    "quote": "एकमुश्त",
+    "reason": "The document specifies the payment is provided as a one-time (एकमुश्त) amount."
+  },
+  "eligibility": {
+    "value": [
+      "आवेदिका उदाहरणप्रदेश की स्थायी निवासी होनी चाहिए।",
+      "बालिका सरकारी विद्यालय में कक्षा 9 में नामांकित होनी चाहिए।",
+      "परिवार की वार्षिक आय रु. 3,00,000 से कम होनी चाहिए।"
+    ],
+    "quote": null,
+    "reason": "Extracted from the eligibility section on page 2."
+  },
+  "documents_required": {
+    "value": [
+      "आधार कार्ड",
+      "जन्म प्रमाण पत्र",
+      "विद्यालय का प्रवेश प्रमाण पत्र",
+      "बैंक खाते का विवरण"
+    ],
+    "quote": null,
+    "reason": "Extracted from the required documents section on page 2."
+  },
+  "how_to_apply": {
+    "value": "आवेदन पत्र भरकर संबंधित विद्यालय के प्रधानाचार्य के माध्यम से जिला कार्यक्रम अधिकारी कार्यालय में जमा करें।",
+    "quote": "आवेदन पत्र भरकर संबंधित विद्यालय के प्रधानाचार्य के माध्यम से जिला कार्यक्रम अधिकारी कार्यालय में जमा करें।",
+    "reason": "The application process is described on page 3."
+  },
+  "deadline": {
+    "value": "2027-03-15",
+    "quote": "15 मार्च 2027",
+    "reason": "The deadline is explicitly stated on page 3."
+  },
+  "official_link": {
+    "value": null,
+    "quote": null,
+    "reason": "No official website or link is provided in the document."
+  }
+}

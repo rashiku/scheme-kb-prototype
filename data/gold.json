@@ -1,0 +1,38 @@
+{
+  "AGR/2026/114": {
+    "scheme_name": "Mukhyamantri Kisan Sahay Yojana",
+    "department": "Department of Agriculture and Farmers Welfare",
+    "benefit_type": "cash assistance",
+    "benefit_amount": 6000,
+    "benefit_frequency": "per year",
+    "eligibility": ["The applicant must be a permanent resident of Examplestan.", "The landholding of the family must not exceed 2 hectares.", "The annual family income must be below Rs. 2,50,000."],
+    "documents_required": ["Aadhaar card", "Land record (7/12 extract)", "Bank passbook", "Income certificate"],
+    "how_to_apply": "Farmers should register on the state agriculture portal, fill in the online form, upload the documents listed above and submit it to the Block Agriculture Officer for verification.",
+    "deadline": "2026-12-31",
+    "official_link": "PLACEHOLDER-LINK: examplestan-agri-portal"
+  },
+  "WCD/2026/57": {
+    "scheme_name": "बालिका शिक्षा प्रोत्साहन योजना",
+    "department": "महिला एवं बाल विकास विभाग",
+    "benefit_type": "cash assistance",
+    "benefit_amount": 10000,
+    "benefit_frequency": "one-time",
+    "eligibility": ["आवेदिका उदाहरणप्रदेश की स्थायी निवासी होनी चाहिए।", "बालिका सरकारी विद्यालय में कक्षा 9 में नामांकित होनी चाहिए।", "परिवार की वार्षिक आय रु. 3,00,000 से कम होनी चाहिए।"],
+    "documents_required": ["आधार कार्ड", "जन्म प्रमाण पत्र", "विद्यालय का प्रवेश प्रमाण पत्र", "बैंक खाते का विवरण"],
+    "how_to_apply": "आवेदन पत्र भरकर संबंधित विद्यालय के प्रधानाचार्य के माध्यम से जिला कार्यक्रम अधिकारी कार्यालय में जमा करें।",
+    "deadline": "2027-03-15",
+    "official_link": null
+  },
+  "sample_scan_ocr.txt": {
+    "scheme_name": "Shramik Awas Sahayata Yojana",
+    "department": "Department of Labour and Employment",
+    "benefit_type": "cash assistance",
+    "benefit_amount": 120000,
+    "benefit_frequency": "one-time",
+    "eligibility": ["Worker must be registered with the State Construction Workers Board", "Worker must have completed at least 1 year of registration", "Worker must not own a pucca house"],
+    "documents_required": ["Aadhaar card", "Board registration card", "Land ownership proof"],
+    "how_to_apply": "Submit the form at the District Labour Office.",
+    "deadline": "2027-03-31",
+    "official_link": null
+  }
+}

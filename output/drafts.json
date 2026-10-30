@@ -1,0 +1,473 @@
+{
+  "AGR/2026/114": {
+    "review_status": "draft",
+    "source_file": "sample_en.txt",
+    "records": [
+      {
+        "scheme_ref": "AGR/2026/114",
+        "field": "scheme_name",
+        "value": "Mukhyamantri Kisan Sahay Yojana",
+        "evidence": {
+          "text": "Mukhyamantri Kisan Sahay Yojana (MKSY)",
+          "location": "Page 1, heading",
+          "source": "synthetic:sample_en.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.98,
+        "status": "found",
+        "note": "MyScheme listing agrees."
+      },
+      {
+        "scheme_ref": "AGR/2026/114",
+        "field": "department",
+        "value": "Department of Agriculture and Farmers Welfare",
+        "evidence": {
+          "text": "Department of Agriculture and Farmers Welfare",
+          "location": "Page 1, header",
+          "source": "synthetic:sample_en.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.95,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "AGR/2026/114",
+        "field": "benefit_amount",
+        "value": [
+          6000,
+          5000
+        ],
+        "evidence": [
+          {
+            "text": "Eligible farmer families will receive financial assistance of Rs. 6,000 per year, paid in three equal instalments directly into the beneficiary's bank account.",
+            "location": "Page 2, section 'Benefit'",
+            "source": "synthetic:sample_en.txt",
+            "captured_at": "2026-10-30"
+          },
+          {
+            "text": "Benefits: Rs. 5,000 per year",
+            "location": "Benefits tab",
+            "source": "MyScheme listing (SYNTHETIC)",
+            "captured_at": "2026-10-28"
+          }
+        ],
+        "confidence": 0.5,
+        "status": "conflict",
+        "note": "Document says 6000, MyScheme says 5000. Neither picked; reviewer must choose."
+      },
+      {
+        "scheme_ref": "AGR/2026/114",
+        "field": "benefit_frequency",
+        "value": "per year",
+        "evidence": {
+          "text": "Eligible farmer families will receive financial assistance of Rs. 6,000 per year, paid in three equal instalments directly into the beneficiary's bank account.",
+          "location": "Page 2, section 'Benefit'",
+          "source": "synthetic:sample_en.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.98,
+        "status": "found",
+        "note": "MyScheme listing agrees."
+      },
+      {
+        "scheme_ref": "AGR/2026/114",
+        "field": "benefit_type",
+        "value": "cash assistance",
+        "evidence": {
+          "text": "Eligible farmer families will receive financial assistance of Rs. 6,000 per year, paid in three equal instalments directly into the beneficiary's bank account.",
+          "location": "Page 2, section 'Benefit'",
+          "source": "synthetic:sample_en.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.85,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "AGR/2026/114",
+        "field": "eligibility",
+        "value": [
+          "The applicant must be a permanent resident of Examplestan.",
+          "The landholding of the family must not exceed 2 hectares.",
+          "The annual family income must be below Rs. 2,50,000."
+        ],
+        "evidence": {
+          "text": "1. The applicant must be a permanent resident of Examplestan.\n2. The landholding of the family must not exceed 2 hectares.\n3. The annual family income must be below Rs. 2,50,000.",
+          "location": "Page 2, section 'Eligibility'",
+          "source": "synthetic:sample_en.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.9,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "AGR/2026/114",
+        "field": "documents_required",
+        "value": [
+          "Aadhaar card",
+          "Land record (7/12 extract)",
+          "Bank passbook",
+          "Income certificate"
+        ],
+        "evidence": {
+          "text": "1. Aadhaar card\n2. Land record (7/12 extract)\n3. Bank passbook\n4. Income certificate",
+          "location": "Page 2, section 'Documents Required'",
+          "source": "synthetic:sample_en.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.9,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "AGR/2026/114",
+        "field": "how_to_apply",
+        "value": "Farmers should register on the state agriculture portal, fill in the online form, upload the documents listed above and submit it to the Block Agriculture Officer for verification.",
+        "evidence": {
+          "text": "Farmers should register on the state agriculture portal, fill in the online form, upload the documents listed above and submit it to the Block Agriculture Officer for verification.",
+          "location": "Page 3, section 'How to Apply'",
+          "source": "synthetic:sample_en.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.85,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "AGR/2026/114",
+        "field": "deadline",
+        "value": [
+          "2026-12-31",
+          "2027-01-31"
+        ],
+        "evidence": [
+          {
+            "text": "Last date for submission: 31 December 2026.",
+            "location": "Page 3, deadline line",
+            "source": "synthetic:sample_en.txt",
+            "captured_at": "2026-10-30"
+          },
+          {
+            "text": "Last date to apply: 31 January 2027",
+            "location": "Application Process tab",
+            "source": "MyScheme listing (SYNTHETIC)",
+            "captured_at": "2026-10-28"
+          }
+        ],
+        "confidence": 0.5,
+        "status": "conflict",
+        "note": "Document says 2026-12-31, MyScheme says 2027-01-31. Neither picked; reviewer must choose."
+      },
+      {
+        "scheme_ref": "AGR/2026/114",
+        "field": "official_link",
+        "value": "PLACEHOLDER-LINK: examplestan-agri-portal",
+        "evidence": {
+          "text": "Official portal: [PLACEHOLDER-LINK: examplestan-agri-portal]",
+          "location": "Page 3, link line",
+          "source": "synthetic:sample_en.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.9,
+        "status": "found",
+        "note": "Synthetic placeholder instead of a real URL."
+      }
+    ]
+  },
+  "WCD/2026/57": {
+    "review_status": "draft",
+    "source_file": "sample_hi.txt",
+    "records": [
+      {
+        "scheme_ref": "WCD/2026/57",
+        "field": "scheme_name",
+        "value": "बालिका शिक्षा प्रोत्साहन योजना",
+        "evidence": {
+          "text": "बालिका शिक्षा प्रोत्साहन योजना",
+          "location": "Page 1, heading",
+          "source": "synthetic:sample_hi.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.95,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "WCD/2026/57",
+        "field": "department",
+        "value": "महिला एवं बाल विकास विभाग",
+        "evidence": {
+          "text": "महिला एवं बाल विकास विभाग",
+          "location": "Page 1, header",
+          "source": "synthetic:sample_hi.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.95,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "WCD/2026/57",
+        "field": "benefit_amount",
+        "value": 10000,
+        "evidence": {
+          "text": "पात्र बालिकाओं को कक्षा 9 में प्रवेश लेने पर रु. 10,000 की आर्थिक सहायता एकमुश्त प्रदान की जाएगी।",
+          "location": "Page 2, section 'लाभ'",
+          "source": "synthetic:sample_hi.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.95,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "WCD/2026/57",
+        "field": "benefit_frequency",
+        "value": "one-time",
+        "evidence": {
+          "text": "पात्र बालिकाओं को कक्षा 9 में प्रवेश लेने पर रु. 10,000 की आर्थिक सहायता एकमुश्त प्रदान की जाएगी।",
+          "location": "Page 2, section 'लाभ'",
+          "source": "synthetic:sample_hi.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.9,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "WCD/2026/57",
+        "field": "benefit_type",
+        "value": "cash assistance",
+        "evidence": {
+          "text": "पात्र बालिकाओं को कक्षा 9 में प्रवेश लेने पर रु. 10,000 की आर्थिक सहायता एकमुश्त प्रदान की जाएगी।",
+          "location": "Page 2, section 'लाभ'",
+          "source": "synthetic:sample_hi.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.85,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "WCD/2026/57",
+        "field": "eligibility",
+        "value": [
+          "आवेदिका उदाहरणप्रदेश की स्थायी निवासी होनी चाहिए।",
+          "बालिका सरकारी विद्यालय में कक्षा 9 में नामांकित होनी चाहिए।",
+          "परिवार की वार्षिक आय रु. 3,00,000 से कम होनी चाहिए।"
+        ],
+        "evidence": {
+          "text": "1. आवेदिका उदाहरणप्रदेश की स्थायी निवासी होनी चाहिए।\n2. बालिका सरकारी विद्यालय में कक्षा 9 में नामांकित होनी चाहिए।\n3. परिवार की वार्षिक आय रु. 3,00,000 से कम होनी चाहिए।",
+          "location": "Page 2, section 'पात्रता'",
+          "source": "synthetic:sample_hi.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.9,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "WCD/2026/57",
+        "field": "documents_required",
+        "value": [
+          "आधार कार्ड",
+          "जन्म प्रमाण पत्र",
+          "विद्यालय का प्रवेश प्रमाण पत्र",
+          "बैंक खाते का विवरण"
+        ],
+        "evidence": {
+          "text": "1. आधार कार्ड\n2. जन्म प्रमाण पत्र\n3. विद्यालय का प्रवेश प्रमाण पत्र\n4. बैंक खाते का विवरण",
+          "location": "Page 2, section 'आवश्यक दस्तावेज़'",
+          "source": "synthetic:sample_hi.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.9,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "WCD/2026/57",
+        "field": "how_to_apply",
+        "value": "आवेदन पत्र भरकर संबंधित विद्यालय के प्रधानाचार्य के माध्यम से जिला कार्यक्रम अधिकारी कार्यालय में जमा करें।",
+        "evidence": {
+          "text": "आवेदन पत्र भरकर संबंधित विद्यालय के प्रधानाचार्य के माध्यम से जिला कार्यक्रम अधिकारी कार्यालय में जमा करें।",
+          "location": "Page 3, section 'आवेदन कैसे करें'",
+          "source": "synthetic:sample_hi.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.85,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "WCD/2026/57",
+        "field": "deadline",
+        "value": "2027-03-15",
+        "evidence": {
+          "text": "अंतिम तिथि: 15 मार्च 2027",
+          "location": "Page 3, deadline line",
+          "source": "synthetic:sample_hi.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.95,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "WCD/2026/57",
+        "field": "official_link",
+        "value": null,
+        "evidence": null,
+        "confidence": null,
+        "status": "not found",
+        "note": "No official link printed in the document."
+      }
+    ]
+  },
+  "sample_scan_ocr.txt": {
+    "review_status": "draft",
+    "source_file": "sample_scan_ocr.txt",
+    "records": [
+      {
+        "scheme_ref": "sample_scan_ocr.txt",
+        "field": "scheme_name",
+        "value": "Shramik Awas Sahayata Yojana",
+        "evidence": {
+          "text": "SHRAMIK AWAS SAHAYATA YOJANA",
+          "location": "Page 1, heading",
+          "source": "synthetic:sample_scan_ocr.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.67,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "sample_scan_ocr.txt",
+        "field": "department",
+        "value": "Department of Labour and Employment",
+        "evidence": {
+          "text": "Department of Labour and Employment",
+          "location": "Page 1, header",
+          "source": "synthetic:sample_scan_ocr.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.67,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "sample_scan_ocr.txt",
+        "field": "benefit_amount",
+        "value": 120000,
+        "evidence": {
+          "text": "Registered construction workers will get a one-time grant of Rs. 1,20,OOO for building a house.",
+          "location": "Page 1, section 'Benefit'",
+          "source": "synthetic:sample_scan_ocr.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.46,
+        "status": "found",
+        "note": "OCR correction: read '1,20,OOO' as '1,20,000'. Check against the scan."
+      },
+      {
+        "scheme_ref": "sample_scan_ocr.txt",
+        "field": "benefit_frequency",
+        "value": "one-time",
+        "evidence": {
+          "text": "Registered construction workers will get a one-time grant of Rs. 1,20,OOO for building a house.",
+          "location": "Page 1, section 'Benefit'",
+          "source": "synthetic:sample_scan_ocr.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.64,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "sample_scan_ocr.txt",
+        "field": "benefit_type",
+        "value": "cash assistance",
+        "evidence": {
+          "text": "Registered construction workers will get a one-time grant of Rs. 1,20,OOO for building a house.",
+          "location": "Page 1, section 'Benefit'",
+          "source": "synthetic:sample_scan_ocr.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.6,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "sample_scan_ocr.txt",
+        "field": "eligibility",
+        "value": [
+          "Worker must be registered with the State Construction Workers Board",
+          "Worker must have completed at least 1 year of registration",
+          "Worker must not own a pucca house"
+        ],
+        "evidence": {
+          "text": "1. Worker must be registered with the State Construction Workers Board\n2. Worker must have completed at least 1 year of registration\n3. Worker must not own a pucca house",
+          "location": "Page 1, section 'Eligibility'",
+          "source": "synthetic:sample_scan_ocr.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.64,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "sample_scan_ocr.txt",
+        "field": "documents_required",
+        "value": [
+          "Aadhaar card",
+          "Board registration card",
+          "Land ownership proof"
+        ],
+        "evidence": {
+          "text": "1. Aadhaar card\n2. Board registration card\n3. Land ownership proof",
+          "location": "Page 1, section 'Documents Required'",
+          "source": "synthetic:sample_scan_ocr.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.64,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "sample_scan_ocr.txt",
+        "field": "how_to_apply",
+        "value": "Submit the form at the District Labour Office.",
+        "evidence": {
+          "text": "Submit the form at the District Labour Office.",
+          "location": "Page 1, section 'How to Apply'",
+          "source": "synthetic:sample_scan_ocr.txt",
+          "captured_at": "2026-10-30"
+        },
+        "confidence": 0.6,
+        "status": "found",
+        "note": ""
+      },
+      {
+        "scheme_ref": "sample_scan_ocr.txt",
+        "field": "deadline",
+        "value": null,
+        "evidence": null,
+        "confidence": null,
+        "status": "not found",
+        "note": "A deadline line exists on page 1 ('Last date: 3l Marc# 2O27 [partly illegible]') but could not be read as a date. Needs a human to read the scan. Not guessed."
+      },
+      {
+        "scheme_ref": "sample_scan_ocr.txt",
+        "field": "official_link",
+        "value": null,
+        "evidence": null,
+        "confidence": null,
+        "status": "not found",
+        "note": "No official link printed in the document."
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "scheme_name": {
+    "value": "Mukhyamantri Kisan Sahay Yojana (MKSY)",
+    "quote": "Mukhyamantri Kisan Sahay Yojana (MKSY)",
+    "reason": "The scheme name is explicitly stated on page 1."
+  },
+  "department": {
+    "value": "Department of Agriculture and Farmers Welfare",
+    "quote": "Department of Agriculture and Farmers Welfare",
+    "reason": "The department is explicitly stated on page 1."
+  },
+  "benefit_type": {
+    "value": "cash assistance",
+    "quote": "financial assistance",
+    "reason": "The document describes the benefit as financial assistance paid into a bank account."
+  },
+  "benefit_amount": {
+    "value": 6000,
+    "quote": "Rs. 6,000",
+    "reason": "The document specifies the amount as Rs. 6,000 per year."
+  },
+  "benefit_frequency": {
+    "value": "per year",
+    "quote": "per year",
+    "reason": "The document specifies the frequency as per year."
+  },
+  "eligibility": {
+    "value": [
+      "The applicant must be a permanent resident of Examplestan.",
+      "The landholding of the family must not exceed 2 hectares.",
+      "The annual family income must be below Rs. 2,50,000."
+    ],
+    "quote": null,
+    "reason": "Extracted from the eligibility section on page 2."
+  },
+  "documents_required": {
+    "value": [
+      "Aadhaar card",
+      "Land record (7/12 extract)",
+      "Bank passbook",
+      "Income certificate"
+    ],
+    "quote": null,
+    "reason": "Extracted from the documents required section on page 2."
+  },
+  "how_to_apply": {
+    "value": "Farmers should register on the state agriculture portal, fill in the online form, upload the documents listed above and submit it to the Block Agriculture Officer for verification.",
+    "quote": "Farmers should register on the state agriculture portal, fill in the online form, upload the documents listed above and submit it to the Block Agriculture Officer for verification.",
+    "reason": "Extracted from the how to apply section on page 3."
+  },
+  "deadline": {
+    "value": "2026-12-31",
+    "quote": "31 December 2026",
+    "reason": "The deadline is explicitly stated on page 3."
+  },
+  "official_link": {
+    "value": "examplestan-agri-portal",
+    "quote": "[PLACEHOLDER-LINK: examplestan-agri-portal]",
+    "reason": "The official portal link is provided on page 3."
+  }
+}
